@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\NANOTEK\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\NANOTEK\\.nuget\\packages"
+    ]
+  }
+}
